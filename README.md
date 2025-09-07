@@ -41,7 +41,7 @@ I prepared data using **T-SQL**, built KPIs, and designed an **interactive Power
 ![Dashboard Screenshot](PowerBI_Dashboard/screenshots/dashboard1.png)
 
 ## 📜 Files in Repository
-- `Zepto_Grocery_Sales_Analytics.pdf` – Full project report  
+- `Zepto_Grocery_Sales_Analytics.pdf`(Zepto Grocery Sales Analytics -- Sql + Power BI project (4).pdf) – Full project report  
 - `SQL_Scripts/` – Queries used for data preparation  
 - `PowerBI_Dashboard/screenshots/` – Dashboard visuals  
 
